@@ -357,6 +357,7 @@
   - [ ] [Reusable State with Higher Order Components](https://daveceddia.com/extract-state-with-higher-order-components/)
   - [ ] [Scalable React and React Native Apps](https://medium.com/getty-logs/scalable-react-and-react-native-apps-b99f952d0d53)
   - [x] [Imperative vs Declarative Programming](https://tylermcginnis.com/imperative-vs-declarative-programming/)
+  - [x] [Difference between declarative and imperative in Reacat.js](https://stackoverflow.com/questions/33655534/difference-between-declarative-and-imperative-in-react-js)  
 
 
 - RxJS
