@@ -576,6 +576,7 @@
 - React
 
   - [x] [React Enlightenment](https://www.gitbook.com/book/frontendmasters/react-enlightenment)
+  - [x] [React In-Depth](https://www.gitbook.com/book/developmentarc/react-indepth)
 
 - Web Design + HTML/CSS
 
