@@ -577,7 +577,7 @@
 
   - [x] [React Enlightenment](https://www.gitbook.com/book/frontendmasters/react-enlightenment)
   - [x] [React In-Depth](https://www.gitbook.com/book/developmentarc/react-indepth)
-
+  - [x] [Taming State In React](https://roadtoreact.com/course-details?courseId=TAMING_THE_STATE)
 - Web Design + HTML/CSS
 
   - [ ] [Framed Ink: Drawing and Composition for Visual Storytellers](https://www.amazon.com/Framed-Ink-Drawing-Composition-Storytellers/dp/1933492953?ie=UTF8&camp=1789&creative=9325&creativeASIN=1933492953&linkCode=as2&linkId=3RRTKVWIPDNHAOER&redirect=true&ref_=as_li_qf_sp_asin_il_tl&tag=matthewencina-20)
