@@ -77,7 +77,7 @@
     - [ ] [React.js Fundamentals](http://courses.reactjsprogram.com/courses/reactjsfundamentals)
     - [ ] [TutsPlus - Code a Universal React App](https://code.tutsplus.com/courses/code-a-universal-react-app)
     - [ ] [TutsPlus - Unit Testing React Components](https://code.tutsplus.com/courses/unit-testing-react-components)
-
+    - [x] [Introduction to React.js by Microsoft](https://www.edx.org/introduction-to-reactjs)
     - MobX
 
       - [ ] [EggHead - Manage Complex State in React Apps with MobX](https://egghead.io/courses/manage-complex-state-in-react-apps-with-mobx)
