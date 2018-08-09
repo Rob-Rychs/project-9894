@@ -10,7 +10,23 @@ Welcome to the Project 9894.
 
 Whether you’re a student or an educator, newer to computer science or a more experienced coder, or otherwise interested in software engineering, I hope there’s something for you here at Project 9894.
 
-### [Return to Product College Table of Conents](https://github.com/DoctaCloak/Product-College)
+### Update August 9th, 2018:  
+
+I am currently revising the Data Science aspect of 9894, as well as the Data Structures & Algorithms section.  I want to touch base with John Washam to get further feedback from him, as well as with some of my colleagues at Google.  This comprehensive guide as it stands now is a bit too exhaustive.  If you complete all of it, or are close to, you'll definitely be more than capable of working at a very high level.  But there should be some distinction.  You don't actually need the section on Data Structures & Algorithms if you want to work purely with product. 
+
+Some aspects are beneficial and I will do my best to show what is needed and what is not.
+
+As for the Full-Stack Web guide, some people have messaged me on [Twitter](https://twitter.com/doctacloak) wit regards to what order to study each listing and I must say *there is no order.* 
+
+I made the Full-Stack Web document to exist as more of a reference to some of the best guides I've found online to allow me to be productive at my job.  However, I think there should...be more clarity there.
+
+So with the overhaul, there will be a path setup for those who want to focus more heavy on Data Science as a whole and those who want to transition into roles as Research Software Engineers, or Software Engineers working with researchers and scientists.
+
+Expect all of this to be complete before the end of 2018.  In the mean time, continue going through the list, nothing that I can think of will be dropped yet, besides the guides on Webpack 2; you shouldn't be focused on Webpack 2 anymore, due to Webpack 4 being a thing now.  At the very least, if you have to look at Webpack 3 that's fine.  I just won't be providing that material here.
+
+Last but not least, the data science material that you need will also be added to this list, but that will get it's own Markdown file more than likely.
+
+A general corpus of everything will be live on Heroku sometime in October or November.
 
 ---
 ### Disclaimer
