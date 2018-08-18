@@ -211,6 +211,7 @@
 - [ ] [Understanding ES6 Classes](https://hashnode.com/post/understanding-es6-classes-cj0dqw75w003mf7537mcwqrxh)
 - [ ] [How to Write Shell Scripts with JavaScript](https://www.sitepoint.com/shell-scripts-javascript/)
 - [ ] [Immutable User Interfaces (Lee Byron) - Full Stack Fest 2016](https://youtu.be/pLvrZPSzHxo)
+- [ ] [When to use Arrow Functions in JavaScript](https://reactarmory.com/answers/when-to-use-arrow-functions)
 
 - AWS
 
