@@ -108,7 +108,9 @@
 - Web Design + HTML/CSS
 
   - [ ] [Wes Bos - What The Flexbox?!](https://www.youtube.com/playlist?list=PLu8EoSxDXHP7xj_y6NIAhy0wuCd4uVdid)
-
+  - [ ] [Flexbox Zombies](https://mastery.games/p/flexbox-zombies)
+  - [] [Grid Critters](https://mastery.games/p/gridcritters)  
+  
 - Programming Stuff
 
   - [ ] [Egghead - How to Contribute to an Open Source Project on GitHub](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github)
@@ -456,7 +458,7 @@
   - [ ] [Auth in GraphQL — Part 2](https://dev-blog.apollodata.com/auth-in-graphql-part-2-c6441bcc4302)
 
 - Web Design + HTML/CSS
-
+  - [ ] [OOCSS, ACSS, BEM, SMACSS: what are they? What should I use?](http://clubmate.fi/oocss-acss-bem-smacss-what-are-they-what-should-i-use/)
   - [ ] [How to Create Dynamic Compositions](https://medium.com/@matthewencina/how-to-create-dynamic-compositions-3c5cc3f00632#.9gbf0i1ne)
   - [ ] [HTML5Rocks - High Performance Animations](http://www.html5rocks.com/en/tutorials/speed/high-performance-animations/)
   - [ ] [8 Entrepreneurs Give Tips for Building a Beautiful Company Website](http://tech.co/building-beautiful-company-website-2016-08)
