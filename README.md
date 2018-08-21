@@ -10,7 +10,7 @@ I am currently revising the Data Science aspect of 9894, as well as the Data Str
 
 Some aspects are beneficial and I will do my best to show what is needed and what is not.
 
-As for the Full-Stack Web guide, some people have messaged me on [Twitter](https://twitter.com/doctacloak) wit regards to what order to study each listing and I must say *there is no order.* 
+As for the Full-Stack Web guide, some people have messaged me on [Twitter](https://twitter.com/doctacloak) with regards to what order to study each listing and I must say *there is no order.* 
 
 I made the Full-Stack Web document to exist as more of a reference to some of the best guides I've found online to allow me to be productive at my job.  However, I think there should...be more clarity there.
 
