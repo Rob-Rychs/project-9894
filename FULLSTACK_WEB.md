@@ -109,7 +109,7 @@
 
   - [ ] [Wes Bos - What The Flexbox?!](https://www.youtube.com/playlist?list=PLu8EoSxDXHP7xj_y6NIAhy0wuCd4uVdid)
   - [ ] [Flexbox Zombies](https://mastery.games/p/flexbox-zombies)
-  - [] [Grid Critters](https://mastery.games/p/gridcritters)  
+  - [ ] [Grid Critters](https://mastery.games/p/gridcritters)  
   
 - Programming Stuff
 
