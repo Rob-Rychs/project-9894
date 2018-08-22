@@ -474,6 +474,8 @@
   - [ ] [Build Complex Layouts with CSS Grid Layout](https://egghead.io/courses/build-complex-layouts-with-css-grid-layout)
   - [ ] [A shorthand for designing UI flows](https://signalvnoise.com/posts/1926-a-shorthand-for-designing-ui-flows)
   - [ ] [‘why bem?’ in a nutshell](https://blog.decaf.de/2015/06/24/why-bem-in-a-nutshell/)
+  - [ ] [How to Scale and Maintain Legacy CSS with Sass and SMACSS](http://webuild.envato.com/blog/how-to-scale-and-maintain-legacy-css-with-sass-and-smacss/)
+  - [ ] [BEM Documentation](http://getbem.com/introduction/)
 
 - Python
 
