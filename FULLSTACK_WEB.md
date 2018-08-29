@@ -540,7 +540,7 @@
 - [ ] [Deep Work: Rules for Focused Success in a Distracted World](https://www.amazon.com/dp/1455586692/ref=wl_it_dp_o_pC_nS_ttl?_encoding=UTF8&colid=15A7J1FUDTFEF&coliid=I18H6P3HJYD0WP)
 
 - JavaScript
-
+- [ ] [Exploring ES6](http://exploringjs.com/es6/)
 - [ ] [Eloquent JavaScript: A Modern Introduction to Programming by Marijn Haverbeke](https://www.amazon.ca/Eloquent-JavaScript-Modern-Introduction-Programming/dp/1593275846/ref=sr_1_fkmr0_1?s=books&ie=UTF8&qid=1469305316&sr=1-1-fkmr0&keywords=Eloquent+JavaScript+-+second+edition+by+Marijn+Haverbeke)
 - [ ] [A Smarter Way to Learn JavaScript by Mark Myers](https://www.amazon.ca/Smarter-Way-Learn-JavaScript-technology-ebook/dp/B00H1W9I6C)
 - [ ] [High Performance JavaScript by Nicholas C.Zakas](https://www.amazon.ca/High-Performance-JavaScript-Nicholas-Zakas/dp/059680279X)
