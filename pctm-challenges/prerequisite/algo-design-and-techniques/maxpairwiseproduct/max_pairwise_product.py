@@ -5,23 +5,16 @@ numbers = [int(x) for x in input().split()]
 # Sanity Test
 assert(len(numbers) == n)
 
-def find_largest(arr):
-    # selection sort
+def max_pairwise_product(arr):
     largest = arr[0]
-    largest_index = 0
+    second_largest = arr[1]
     for i in range(1, len(arr)):
-        if arr[i] > largest:
+        if arr[i] >= second_largest:
+            second_largest = arr[i]
+        elif arr[i] > largest:
             largest = arr[i]
-            largest_index = i
-    return largest_index
+    return largest * second_largest
 
-def max_pair(arr):
-    new_arr = [None] * 2
-    for i in range(0, 2):
-        largest = find_largest(arr)
-        new_arr[i] = arr.pop(largest)
-    return new_arr[0] * new_arr[1]
-
-result = max_pair(numbers)
+result = max_pairwise_product(numbers)
 
 print(result)
