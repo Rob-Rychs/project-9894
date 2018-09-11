@@ -1,16 +1,26 @@
-<div>
-    <p  align="center">
-        <img src ="https://avatars0.githubusercontent.com/u/18430630?v=4&s=460" />
-    </p>
-</div>
-
 # Project 9894
 
 Welcome to the Project 9894.
 
 Whether you’re a student or an educator, newer to computer science or a more experienced coder, or otherwise interested in software engineering, I hope there’s something for you here at Project 9894.
 
-### [Return to Product College Table of Conents](https://github.com/DoctaCloak/Product-College)
+### Update August 9th, 2018:  
+
+I am currently revising the Data Science aspect of 9894, as well as the Data Structures & Algorithms section.  I want to touch base with John Washam to get further feedback from him, as well as with some of my colleagues at Google.  This comprehensive guide as it stands now is a bit too exhaustive.  If you complete all of it, or are close to, you'll definitely be more than capable of working at a very high level.  But there should be some distinction.  You don't actually need the section on Data Structures & Algorithms if you want to work purely with product. 
+
+Some aspects are beneficial and I will do my best to show what is needed and what is not.
+
+As for the Full-Stack Web guide, some people have messaged me on [Twitter](https://twitter.com/doctacloak) with regards to what order to study each listing and I must say *there is no order.* 
+
+I made the Full-Stack Web document to exist as more of a reference to some of the best guides I've found online to allow me to be productive at my job.  However, I think there should...be more clarity there.
+
+So with the overhaul, there will be a path setup for those who want to focus more heavy on Data Science as a whole and those who want to transition into roles as Research Software Engineers, or Software Engineers working with researchers and scientists.
+
+Expect all of this to be complete before the end of 2018.  In the mean time, continue going through the list, nothing that I can think of will be dropped yet, besides the guides on Webpack 2; you shouldn't be focused on Webpack 2 anymore, due to Webpack 4 being a thing now.  At the very least, if you have to look at Webpack 3 that's fine.  I just won't be providing that material here.
+
+Last but not least, the data science material that you need will also be added to this list, but that will get it's own Markdown file more than likely.
+
+A general corpus of everything will be live on Heroku sometime in October or November.
 
 ---
 ### Disclaimer
@@ -246,11 +256,12 @@ Sometimes the classes are not in session so you have to wait a couple of months,
     - [x] [How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft (video)](https://www.youtube.com/watch?v=YJZCUhxNCv8)
 
 - [ ] Prep Course:
-    - [ ] [Software Engineer Interview Unleashed (paid course)](https://www.udemy.com/software-engineer-interview-unleashed):
+    - [x] [Software Engineer Interview Unleashed (paid course)](https://www.udemy.com/software-engineer-interview-unleashed):
         - Learn how to make yourself ready for software engineer interviews from a former Google interviewer.
     - [ ] [Python for Data Structures, Algorithms, and Interviews! (paid course)](https://www.udemy.com/python-for-data-structures-algorithms-and-interviews/):
         - A Python centric interview prep course which covers data structures, algorithms, mock interviews and much more.
-
+    - [ ] [Interview Cake (paid course)](https://interviewcake.com):
+        - A complete crash course which is meant to be complimentary to Python for Data Structures & Algo Udemy course
 ## Pick One Language for the Interview
 
 You can use a language you are comfortable in to do the coding part of the interview, but for large companies, these are solid choices:
@@ -501,8 +512,8 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
 
 ## Algorithmic complexity / Big-O / Asymptotic analysis
 - nothing to implement
-- [ ] [Harvard CS50 - Asymptotic Notation (video)](https://www.youtube.com/watch?v=iOq5kSKqeR4)
-- [ ] [Big O Notations (general quick tutorial) (video)](https://www.youtube.com/watch?v=V6mKVRU1evU)
+- [x] [Harvard CS50 - Asymptotic Notation (video)](https://www.youtube.com/watch?v=iOq5kSKqeR4)
+- [x] [Big O Notations (general quick tutorial) (video)](https://www.youtube.com/watch?v=V6mKVRU1evU)
 - [ ] [Big O Notation (and Omega and Theta) - best mathematical explanation (video)](https://www.youtube.com/watch?v=ei-A_wy5Yxw&index=2&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
 - [ ] Skiena:
     - [video](https://www.youtube.com/watch?v=gSyDMtdPNpU&index=2&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b)

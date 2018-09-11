@@ -1,7 +1,7 @@
 # Full-Stack Web Development:
 
 
-### [Return to Product College Table of Conents](https://github.com/DoctaCloak/Product-College)
+### [Return to 9894 Table of Conents](https://github.com/DoctaCloak/project-9894)
 
 ---
 
@@ -45,7 +45,7 @@
   - [ ] [Mastering Javascript Unit Testing](http://codeutopia.net/h/mastering-javascript-unit-testing/)
   - [ ] [Pluralsight - Basics of Programming with JavaScript](https://app.pluralsight.com/library/courses/javascript-programming-basics/table-of-contents)
   - [ ] [Pluralsight - Advanced JavaScript](https://app.pluralsight.com/library/courses/advanced-javascript/table-of-contents)
-  - [ ] [Functional Programming in JavaScript](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
+  - [x] [Functional Programming in JavaScript](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
   - [ ] [LearnCode.academy - What Makes JavaScript Weird ... and Awesome](https://www.youtube.com/playlist?list=PLoYCgNOIyGABI011EYc-avPOsk1YsMUe_)
   - [ ] [LearnCode.academy - Modular Javascript](https://www.youtube.com/playlist?list=PLoYCgNOIyGABs-wDaaxChu82q_xQgUb4f)
   - [ ] [Lynda - JavaScript: Functions](https://www.lynda.com/JavaScript-tutorials/JavaScript-Functions/148137-2.html)
@@ -77,7 +77,7 @@
     - [ ] [React.js Fundamentals](http://courses.reactjsprogram.com/courses/reactjsfundamentals)
     - [ ] [TutsPlus - Code a Universal React App](https://code.tutsplus.com/courses/code-a-universal-react-app)
     - [ ] [TutsPlus - Unit Testing React Components](https://code.tutsplus.com/courses/unit-testing-react-components)
-
+    - [x] [Introduction to React.js by Microsoft](https://www.edx.org/introduction-to-reactjs)
     - MobX
 
       - [ ] [EggHead - Manage Complex State in React Apps with MobX](https://egghead.io/courses/manage-complex-state-in-react-apps-with-mobx)
@@ -108,7 +108,9 @@
 - Web Design + HTML/CSS
 
   - [ ] [Wes Bos - What The Flexbox?!](https://www.youtube.com/playlist?list=PLu8EoSxDXHP7xj_y6NIAhy0wuCd4uVdid)
-
+  - [ ] [Flexbox Zombies](https://mastery.games/p/flexbox-zombies)
+  - [ ] [Grid Critters](https://mastery.games/p/gridcritters)  
+  
 - Programming Stuff
 
   - [ ] [Egghead - How to Contribute to an Open Source Project on GitHub](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github)
@@ -118,7 +120,7 @@
 
 - Computer Science + Algorithms
 
-  - [ ] [A practical introduction to functional programming](https://maryrosecook.com/blog/post/a-practical-introduction-to-functional-programming)
+  - [x] [A practical introduction to functional programming](https://maryrosecook.com/blog/post/a-practical-introduction-to-functional-programming)
 
 - Golang
 
@@ -211,6 +213,7 @@
 - [ ] [Understanding ES6 Classes](https://hashnode.com/post/understanding-es6-classes-cj0dqw75w003mf7537mcwqrxh)
 - [ ] [How to Write Shell Scripts with JavaScript](https://www.sitepoint.com/shell-scripts-javascript/)
 - [ ] [Immutable User Interfaces (Lee Byron) - Full Stack Fest 2016](https://youtu.be/pLvrZPSzHxo)
+- [ ] [When to use Arrow Functions in JavaScript](https://reactarmory.com/answers/when-to-use-arrow-functions)
 
 - AWS
 
@@ -356,6 +359,9 @@
   - [ ] [Add routing to React apps using React Router v4](https://egghead.io/courses/add-routing-to-react-apps-using-react-router-v4)
   - [ ] [Reusable State with Higher Order Components](https://daveceddia.com/extract-state-with-higher-order-components/)
   - [ ] [Scalable React and React Native Apps](https://medium.com/getty-logs/scalable-react-and-react-native-apps-b99f952d0d53)
+  - [x] [Imperative vs Declarative Programming](https://tylermcginnis.com/imperative-vs-declarative-programming/)
+  - [x] [Difference between declarative and imperative in Reacat.js](https://stackoverflow.com/questions/33655534/difference-between-declarative-and-imperative-in-react-js)  
+  - [x] [Virtual Dom](https://facebook.github.io/react/docs/optimizing-performance.html#avoid-reconciliation)
 
 - RxJS
 
@@ -452,7 +458,7 @@
   - [ ] [Auth in GraphQL — Part 2](https://dev-blog.apollodata.com/auth-in-graphql-part-2-c6441bcc4302)
 
 - Web Design + HTML/CSS
-
+  - [ ] [OOCSS, ACSS, BEM, SMACSS: what are they? What should I use?](http://clubmate.fi/oocss-acss-bem-smacss-what-are-they-what-should-i-use/)
   - [ ] [How to Create Dynamic Compositions](https://medium.com/@matthewencina/how-to-create-dynamic-compositions-3c5cc3f00632#.9gbf0i1ne)
   - [ ] [HTML5Rocks - High Performance Animations](http://www.html5rocks.com/en/tutorials/speed/high-performance-animations/)
   - [ ] [8 Entrepreneurs Give Tips for Building a Beautiful Company Website](http://tech.co/building-beautiful-company-website-2016-08)
@@ -468,6 +474,8 @@
   - [ ] [Build Complex Layouts with CSS Grid Layout](https://egghead.io/courses/build-complex-layouts-with-css-grid-layout)
   - [ ] [A shorthand for designing UI flows](https://signalvnoise.com/posts/1926-a-shorthand-for-designing-ui-flows)
   - [ ] [‘why bem?’ in a nutshell](https://blog.decaf.de/2015/06/24/why-bem-in-a-nutshell/)
+  - [ ] [How to Scale and Maintain Legacy CSS with Sass and SMACSS](http://webuild.envato.com/blog/how-to-scale-and-maintain-legacy-css-with-sass-and-smacss/)
+  - [ ] [BEM Documentation](http://getbem.com/introduction/)
 
 - Python
 
@@ -532,7 +540,8 @@
 - [ ] [Deep Work: Rules for Focused Success in a Distracted World](https://www.amazon.com/dp/1455586692/ref=wl_it_dp_o_pC_nS_ttl?_encoding=UTF8&colid=15A7J1FUDTFEF&coliid=I18H6P3HJYD0WP)
 
 - JavaScript
-
+- [ ] [Speaking JavaScript](http://speakingjs.com/)
+- [ ] [Exploring ES6](http://exploringjs.com/es6/)
 - [ ] [Eloquent JavaScript: A Modern Introduction to Programming by Marijn Haverbeke](https://www.amazon.ca/Eloquent-JavaScript-Modern-Introduction-Programming/dp/1593275846/ref=sr_1_fkmr0_1?s=books&ie=UTF8&qid=1469305316&sr=1-1-fkmr0&keywords=Eloquent+JavaScript+-+second+edition+by+Marijn+Haverbeke)
 - [ ] [A Smarter Way to Learn JavaScript by Mark Myers](https://www.amazon.ca/Smarter-Way-Learn-JavaScript-technology-ebook/dp/B00H1W9I6C)
 - [ ] [High Performance JavaScript by Nicholas C.Zakas](https://www.amazon.ca/High-Performance-JavaScript-Nicholas-Zakas/dp/059680279X)
@@ -568,7 +577,14 @@
 - React-Native
 
   - [ ] [Learning React Native](http://shop.oreilly.com/product/0636920041511.do)
+  - [ ] [Full Stack React Native](https://www.fullstackreact.com/react-native/)
 
+
+- React
+
+  - [x] [React Enlightenment](https://www.gitbook.com/book/frontendmasters/react-enlightenment)
+  - [x] [React In-Depth](https://www.gitbook.com/book/developmentarc/react-indepth)
+  - [x] [Taming State In React](https://roadtoreact.com/course-details?courseId=TAMING_THE_STATE)
 - Web Design + HTML/CSS
 
   - [ ] [Framed Ink: Drawing and Composition for Visual Storytellers](https://www.amazon.com/Framed-Ink-Drawing-Composition-Storytellers/dp/1933492953?ie=UTF8&camp=1789&creative=9325&creativeASIN=1933492953&linkCode=as2&linkId=3RRTKVWIPDNHAOER&redirect=true&ref_=as_li_qf_sp_asin_il_tl&tag=matthewencina-20)
