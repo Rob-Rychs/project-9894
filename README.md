@@ -258,9 +258,9 @@ Sometimes the classes are not in session so you have to wait a couple of months,
 - [ ] Prep Course:
     - [x] [Software Engineer Interview Unleashed (paid course)](https://www.udemy.com/software-engineer-interview-unleashed):
         - Learn how to make yourself ready for software engineer interviews from a former Google interviewer.
-    - [ ] [Python for Data Structures, Algorithms, and Interviews! (paid course)](https://www.udemy.com/python-for-data-structures-algorithms-and-interviews/):
+    - [ ] [Python for Data Structures, Algorithms, and Interviews! (paid course) In-Progress](https://www.udemy.com/python-for-data-structures-algorithms-and-interviews/):
         - A Python centric interview prep course which covers data structures, algorithms, mock interviews and much more.
-    - [ ] [Interview Cake (paid course)](https://interviewcake.com):
+    - [ ] [Interview Cake (paid course) In-Progress](https://interviewcake.com):
         - A complete crash course which is meant to be complimentary to Python for Data Structures & Algo Udemy course
 ## Pick One Language for the Interview
 
