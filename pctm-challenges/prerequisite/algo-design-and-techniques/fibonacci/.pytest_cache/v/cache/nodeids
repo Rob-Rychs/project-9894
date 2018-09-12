@@ -1,0 +1,4 @@
+[
+  "fibonacci.py::MyTest::test_fast",
+  "fibonacci.py::MyTest::test_naive"
+]

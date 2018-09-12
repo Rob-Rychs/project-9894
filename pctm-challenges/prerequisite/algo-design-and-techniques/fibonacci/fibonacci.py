@@ -1,6 +1,6 @@
 # Uses python3
+import unittest
 
-n = int(input())
 def fibonacci(n):
     # Sanity Test
     if n <= 1:
@@ -28,4 +28,17 @@ def get_fibonacci_last_digit_naive(n):
 
     return current
 
-print(get_fibonacci_last_digit_naive(n))
+
+class MyTest(unittest.TestCase):
+    def test_naive(self):
+        self.assertEqual(get_fibonacci_last_digit_naive(3), 2)
+        self.assertEqual(get_fibonacci_last_digit_naive(331), 9)
+        self.assertEqual(get_fibonacci_last_digit_naive(327305), 5)
+
+    def test_fast(self):
+        self.assertEqual(fibonacci(3), 2)
+
+if __name__ == '__main__':
+    # unittest.main()
+    n = int(input())
+    print(fibonacci(n))
