@@ -4,6 +4,12 @@ Welcome to the Project 9894.
 
 Whether you’re a student or an educator, newer to computer science or a more experienced coder, or otherwise interested in software engineering, I hope there’s something for you here at Project 9894.
 
+### Update September 26th, 2018:  
+
+For anyone wondering, this repository is built off of the original coding interview university by John Washam.  Anything marked as a checkmark has been double checked and approved and thus will stay in the final copy of this repository. 
+
+However, if something is not checked, don't count on it staying.  Refer back to the [original](https://github.com/jwasham/coding-interview-university) for the single source of truth.
+
 ### Update August 9th, 2018:  
 
 I am currently revising the Data Science aspect of 9894, as well as the Data Structures & Algorithms section.  I want to touch base with John Washam to get further feedback from him, as well as with some of my colleagues at Google.  This comprehensive guide as it stands now is a bit too exhaustive.  If you complete all of it, or are close to, you'll definitely be more than capable of working at a very high level.  But there should be some distinction.  You don't actually need the section on Data Structures & Algorithms if you want to work purely with product. 
